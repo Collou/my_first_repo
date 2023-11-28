@@ -8,4 +8,5 @@ Added text local
 
 Added text to new branch 
 
-Solving conflict
+Added local conflict
+
